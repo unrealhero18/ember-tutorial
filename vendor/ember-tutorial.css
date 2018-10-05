@@ -262,7 +262,7 @@ p {
 }
 
 .listing .map {
-    position: absolute;
+    position: absolute !important;
     bottom: 13px;
     right: 50px;
     height: 120px;
